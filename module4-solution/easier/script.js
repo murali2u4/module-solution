@@ -20,13 +20,11 @@ Hello Larry
 Hello Paula
 Hello Laura
 Good Bye Jim
-
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
 as described in the requirements and the steps in order to complete this
 assignment.
 WARNING!!! WARNING!!!
-
 */
 
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
@@ -64,5 +62,6 @@ for (var i = 0; i < names.length; i++) {
     helloSpeaker.speak(names[i]);
   }
 }
-
 })();
+
+
